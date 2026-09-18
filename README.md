@@ -1,49 +1,58 @@
-# 🧠⚽ RL Sensei — Rocket League SSL AI Bot
+# 🚀 RL Sensei — Rocket League SSL AI
 
-> **An AI-powered Rocket League bot built to learn, adapt, and target Supersonic Legend-level gameplay.**
+**Are you a noob? Missing open nets? Getting destroyed every game?**
 
-![Status](https://img.shields.io/badge/status-in%20development-orange)
-![Python](https://img.shields.io/badge/Python-3.11+-blue)
-![AI](https://img.shields.io/badge/AI-Reinforcement%20Learning-purple)
-![Target](https://img.shields.io/badge/Target-Supersonic%20Legend-red)
+Meet **RL Sensei** — an AI-powered Rocket League bot project with one goal:
+
+> 🏆 Build an AI capable of **Supersonic Legend (SSL) level gameplay**.
+
+RL Sensei isn't designed to simply chase the ball. It's being built to understand how high-level Rocket League is actually played — from positioning and prediction to advanced mechanics and decision-making.
+
+## 🧠 What Can RL Sensei Learn?
+
+⚽ Ball prediction & interception  
+🎯 Accurate shooting  
+🛡️ Shadow defense & saves  
+🚀 Fast aerials  
+🔄 Flip resets & double taps  
+🌊 Wave dashes  
+⚡ Speed flips  
+🏎️ Fast recoveries  
+💨 Smart boost management  
+🤝 Intelligent 50/50s  
+🎭 Fake challenges  
+🥅 Dribbling & flicks  
+🧠 Possession & positioning  
+
+The goal isn't to make an AI that constantly attempts flashy mechanics.
+
+RL Sensei should know **when** to flip reset — and when a simple shot is the better play.
+
+## 🤖 Powered by AI
+
+RL Sensei is being developed using:
+
+- Python
+- RLGym
+- RocketSim
+- RLBot
+- PyTorch
+- Reinforcement Learning
+- PPO
+- Self-Play
+
+The AI can train through millions of simulated interactions, compete against previous versions of itself, and progressively improve.
+
+## 🚧 Development
+
+RL Sensei is currently under development.
+
+The initial focus is **1v1**, followed by advanced mechanics and eventually **2v2 intelligence**.
+
+> **From zero... to Supersonic Legend. 🚀**
+
+⭐ Star the repo to follow development.
 
 ---
 
-## 🚀 What is RL Sensei?
-
-Ever wondered what would happen if an AI learned Rocket League from the ground up?
-
-**RL Sensei** is an experimental Rocket League AI project designed to train an autonomous agent capable of extremely high-level gameplay.
-
-The goal is simple:
-
-> 🏆 **Train an AI capable of demonstrating Supersonic Legend-level Rocket League behaviour.**
-
-Instead of relying on thousands of hard-coded rules, RL Sensei is being designed around **reinforcement learning, self-play, physics simulation, prediction, and neural networks**.
-
-The AI learns when to attack, defend, challenge, rotate, conserve boost, control possession, and eventually perform advanced Rocket League mechanics.
-
----
-
-# 🤖 Meet RL Sensei
-
-RL Sensei isn't supposed to be another basic ball-chasing bot.
-
-The long-term goal is an agent that understands the game.
-
-```text
-                ⚽ BALL
-                   │
-                   ▼
-            GAME STATE
-                   │
-                   ▼
-          🧠 RL SENSEI AI
-                   │
-        ┌──────────┼──────────┐
-        ▼          ▼          ▼
-     Predict     Decide      Execute
-        │          │          │
-        └──────────┼──────────┘
-                   ▼
-            🎮 CAR CONTROL
+**Disclaimer:** RL Sensei is an independent AI research project for supported offline/private bot environments and is not affiliated with Psyonix or Epic Games.
